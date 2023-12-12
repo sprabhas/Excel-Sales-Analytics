@@ -2,9 +2,11 @@
 
  **Project objective:** 
 
-    **1** Created a customer performance report which compares the net sales between 3 years 2019,2020 and 2021 and also finds the percentage growth of net sales between 2021 vs 2020 - https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/Sales_report.pdf) .
+ ## Sales Report :
 
-    **2** Conducted a comprehensive comparison between market performance and sales targets (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/market_report.pdf) .
+    **1.** Created a customer performance report which compares the net sales between 3 years 2019,2020 and 2021 and also finds the percentage growth of net sales between 2021 vs 2020 - https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/Sales_report.pdf) .
+
+    **2.** Conducted a comprehensive comparison between market performance and sales targets (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/market_report.pdf) .
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -14,8 +16,6 @@
 
 
 ## Finance Report :
-
-- **Project objective:** 
 
     **1.** Created Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20FY%20report.pdf) & Months(https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20report.pdf) .
 
