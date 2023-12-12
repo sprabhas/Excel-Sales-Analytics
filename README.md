@@ -17,15 +17,15 @@
 
 ## Finance Report :
 
-    **1.** Created Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20FY%20report.pdf) & Months(https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20report.pdf) .
+    **1.** Created Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20FY%20report.pdf) & Months(https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20report.pdf) .
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20marketwise%20report.pdf) & (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/Top%2010%20products%20report.pdf) .
+   **2.** Created Profit and Loss (P&L) reports by [Markets](https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/P%26L%20marketwise%20report.pdf) & (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/Top%2010%20products%20report.pdf) .
 
-- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+ **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+ **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+ **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Personal Income Tracking Report :
 
