@@ -31,6 +31,10 @@
 
   **1.** Created Personal Income Tracking report (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/personnal_income_tracking_report.pdf) .
 
+## Property performance Report :
+
+**1.** Created a  Property performance report which analysis the total bookings , total revenue generated for the property month wise in pivot table . Monthwise - (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/property%20performance%20report%20monthwise.pdf) & Weekwise - (https://github.com/sprabhas/Excel-Sales-Analytics/blob/main/hotel%20booking%20report%20weekwise.pdf) .
+
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
